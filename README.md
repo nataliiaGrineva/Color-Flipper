@@ -1,1 +1,1 @@
-[DEMO](https://dimadp.github.io/fe-template/)
+[DEMO](https://nataliiagrineva.github.io/Color-Flipper/hex.html)
