@@ -33,9 +33,5 @@
     "stylelint": "^13.6.1"
   },
   "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint",
-      "pre-push": "npm run lint"
-    }
   }
 }
